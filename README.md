@@ -1,4 +1,4 @@
-<h2>laravel-online-shop  🏚 </h2>
+<h2>Laranos-online-shop  🏚 </h2>
 
 <p>
 A good store will have various features and characteristics that enhance the shopping experience. Here is my attempt to answer this question in this repository:
