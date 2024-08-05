@@ -42,11 +42,11 @@ From the moment you enter, everything is designed to be modern and up-to-date un
 
 <h3>See Some image(s) 📸</h3>
 * Home
-<img  src="Home-page.png" >
+<img  src="Home-Page.png" >
 * register
 <img  src="register.png">
 * Login
-<img  src="screenshots/Login.png">
+<img  src="Login.png">
 
 
 
